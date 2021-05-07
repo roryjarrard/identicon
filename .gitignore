@@ -25,3 +25,7 @@ identicon-*.tar
 
 # Temporary files for e.g. tests
 /tmp
+
+# IDE
+/.idea
+/.vscode
